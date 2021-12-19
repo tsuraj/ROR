@@ -1,24 +1,13 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+ROR Project:
 
-Things you may want to cover:
+Things covered in this project:
 
-* Ruby version
+* Signup, Signin and logout
 
-* System dependencies
+* User with multiple projects
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
+* projects with multiple task
 
 * ...
